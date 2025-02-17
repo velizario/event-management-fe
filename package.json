@@ -1,0 +1,27 @@
+{
+  "name": "event-platform-frontend",
+  "version": "1.0.0",
+  "description": "Next.js + TypeScript + Tailwind",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.x",
+    "eslint-config-next": "13.x",
+    "jwt-decode": "^3.1.2",
+    "next": "13.x",
+    "postcss": "^8.4.21",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-query": "^3.39.3",
+    "tailwindcss": "^3.2.7",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.9"
+  }
+}

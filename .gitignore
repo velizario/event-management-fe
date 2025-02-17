@@ -1,0 +1,6 @@
+node_modules/
+.next/
+dist/
+.env
+.DS_Store  # macOS system files (if applicable)
+*.log      # Ignore log files

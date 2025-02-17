@@ -18,7 +18,7 @@ export default function EventDetails() {
         throw new Error(errorData.message || "Error fetching event");
       }
       return res.json();
-    },
+    }, 
     {
       enabled: !!id,
     }
